@@ -3,7 +3,7 @@ id: server-guides-plus-id
 title: Plus ID
 ---
 
-Plus ID 是 ThinkSNS Plus 程序提供的第三方程序接入用户方案，使用简洁的接口可快速降程序整合进入 Plus 程序。
+Plus ID 是 mts 程序提供的第三方程序接入用户方案，使用简洁的接口可快速降程序整合进入 Plus 程序。
 
 > 请求地址 `/plus-id/clients/{client id}`
 

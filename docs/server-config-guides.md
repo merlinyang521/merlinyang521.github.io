@@ -5,7 +5,7 @@ title: 服务端配项说明
 
 > 系统配置是开启一切的钥匙
 
-为了能让大家能够对各个配置项的作用更加了解, 在此我们对ThinkSNS+的配置项做一个具体的分析
+为了能让大家能够对各个配置项的作用更加了解, 在此我们对mts的配置项做一个具体的分析
 
 ***文档中所提到废弃配置, 是已经废弃的配置, 可能在部分老版本中还存在; 并且此配置我们依旧会不停优化, 达到最佳效果***
 
@@ -32,11 +32,11 @@ site: // 站点标识
         amounts: '100,500,1000' // 打赏金额选项, 单位为「分」, 使用「半角逗号」分割
     reserved_nickname: 'root,admin' // 预留站点昵称「半角逗号」分割
     client_email: admin@123.com // 客服邮箱
-    user_invite_template: '我发现了一个全平台社交系统ThinkSNS+，快来加入吧：http://t.cn/RpFfbbi' // 客户端[Android, iOS]邀请短信模板, 短链接无法自动生成
+    user_invite_template: '我发现了一个全平台社交系统mts，快来加入吧：http://t.cn/RpFfbbi' // 客户端[Android, iOS]邀请短信模板, 短链接无法自动生成
     anonymous: // 匿名设置
         status: true // 可匿名状态 [true, false]
         rule: 可以使用匿名 // 匿名规则说明
-    about_url: http://www.thinksns.com
+    about_url: http://www.mts.com
     status: true // 弃用设置
     off_reason: 站点维护中请稍后再访问 // 弃用设置
     app: // 弃用设置
@@ -80,9 +80,9 @@ pc: // pc扩展包配置
     status: '0' // pc扩展包是否开启, 暂未使用
     logo: 0 // pc扩展包logo, 为file_with_id
     loginbg: 0 // pc扩展包登录页背景图, 为 file_with_id
-    site_name: ThinkSNS+ // pc 页面title
-    site_copyright: 'Powered by ThinkSNS ©2017 ZhishiSoft All Rights Reserved.' // pc 版权
-    site_technical: ThinkSNS // 技术支持提供方
+    site_name: mts // pc 页面title
+    site_copyright: 'Powered by mts ©2017 ZhishiSoft All Rights Reserved.' // pc 版权
+    site_technical: mts // 技术支持提供方
     weibo: // 三方登录: 微博
         client_id: null // 微博开放平台 应用id
         client_secret: null // 微博开放平台 应用密钥
@@ -117,9 +117,9 @@ im:
 对应后台设置: 系统设置 -> 基本信息
 ``````
 app:
-    name: ThinkSNS+ // 站点名称
-    keywords: ThinkSNS+ // 站点关键字
-    description: ThinkSNS+ // 站点简介
+    name: mts // 站点名称
+    keywords: mts // 站点关键字
+    description: mts // 站点简介
     icp: 蜀ICP备-293898923 // icp备案信息
 ``````
 
@@ -225,11 +225,11 @@ sms:
         aliyun:
             access_key_id: appKey
             access_key_secret: appSecret
-            sign_name: ThinkSNS+
+            sign_name: mts
         alidayu:
             app_key: alidayu_app_key
             app_secret: alidayu_app_secret
-            sign_name: ThinkSNS+
+            sign_name: mts
         yunpian:
             api_key: yunpian_api_key
 ``````

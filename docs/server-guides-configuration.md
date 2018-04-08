@@ -5,10 +5,10 @@ title: 配置管理
 
 在 Laravel 中，大多数采用 `.env` 文件管理，深度配置都采用 `config/*.php` 配置。
 
-在 ThinkSNS+ 这一现象并没有发生改变，我们也推崇使用 Laravel 方式进行管理配置，但是有时候我们往往需要后期配置，
+在 mts 这一现象并没有发生改变，我们也推崇使用 Laravel 方式进行管理配置，但是有时候我们往往需要后期配置，
 但是后期配置不可能期望用户去修改配置文件。这很危险，用户大多都没有技术能力。
 
-所以，在 ThinkSNS+ 在 Laravel 配置的基础上增加了一份更加灵活的配置支持，而类就是 `\Zhiyi\Plus\Support\Configuration` 所处位置： `/app/Support/Configuration.php`。
+所以，在 mts 在 Laravel 配置的基础上增加了一份更加灵活的配置支持，而类就是 `\Zhiyi\Plus\Support\Configuration` 所处位置： `/app/Support/Configuration.php`。
 
 我们将这个配置称之为 vendor config，而管理清单采用 Yaml 方式，存储在 `.plus.yml` 文件中。
 
@@ -43,7 +43,7 @@ $repository->set('cdn.default', 'filesystem');
 // \Zhiyi\Plus\Support\Configuration::class
 $repository->set([
     'cdn.default' => 'filesystem',
-    'app.name' => 'ThinkSNS+',
+    'app.name' => 'mts',
 ]);
 ```
 

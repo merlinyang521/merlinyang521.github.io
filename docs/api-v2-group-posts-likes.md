@@ -48,11 +48,11 @@ status 200
             "updated_at": "2017-11-15 07:36:17",
             "following": false,
             "follower": false,
-            "avatar": "http://thinksns-plus.dev/api/v2/users/1/avatar",
+            "avatar": "http://mts.dev/api/v2/users/1/avatar",
             "bg": null,
             "verified": {
                 "type": "user",
-                "icon": "http://thinksns-plus.dev/storage/certifications/000/000/0us/er.png",
+                "icon": "http://mts.dev/storage/certifications/000/000/0us/er.png",
                 "description": "1111"
             },
             "extra": {

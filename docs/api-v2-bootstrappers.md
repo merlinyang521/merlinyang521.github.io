@@ -67,7 +67,7 @@ Status: 200 OK
             "type":"image",
             "data":{
                 "image":"https://avatars0.githubusercontent.com/u/5564821?v=3&s=460",
-                "link":"https://github.com/zhiyicx/thinksns-plus"
+                "link":"https://github.com/zhiyicx/mts"
             }
         },
             {
@@ -100,7 +100,7 @@ Status: 200 OK
             "status": false,
             "amounts": "5,10,15"
         },
-        "user_invite_template": "我发现了一个全平台社交系统ThinkSNS+，快来加入吧：http://t.cn/RpFfbbi"
+        "user_invite_template": "我发现了一个全平台社交系统mts，快来加入吧：http://t.cn/RpFfbbi"
     },
     "registerSettings": {
         "showTerms": false,

@@ -57,7 +57,7 @@ status 200
             "location": null,
             "created_at": "2017-11-09 08:17:26",
             "updated_at": "2017-11-09 08:17:26",
-            "avatar": "http://127.0.0.1/duibi/thinksns-plus/public/api/v2/users/1/avatar",
+            "avatar": "http://127.0.0.1/duibi/mts/public/api/v2/users/1/avatar",
             "bg": null,
             "verified": null,
             "extra": {
@@ -209,7 +209,7 @@ status 200
             "location": null,
             "created_at": "2017-11-09 08:17:26",
             "updated_at": "2017-11-09 08:17:26",
-            "avatar": "http://127.0.0.1/duibi/thinksns-plus/public/api/v2/users/1/avatar",
+            "avatar": "http://127.0.0.1/duibi/mts/public/api/v2/users/1/avatar",
             "bg": null,
             "verified": null,
             "extra": {

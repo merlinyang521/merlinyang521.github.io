@@ -80,7 +80,7 @@ Status: 201 Created
 ```
 ```json5
 {
-  "id": 8, // ThinkSNS+ 系统凭据 ID
+  "id": 8, // mts 系统凭据 ID
   "charge": { // Ping++ 凭据
     "id": "ch_08anD0a9yjPCLyvbTODqXrnT",
     "object": "charge",

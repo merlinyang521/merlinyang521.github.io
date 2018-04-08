@@ -49,11 +49,11 @@ status 200
             "location": "四川省 巴中市 南江县",
             "created_at": "2017-10-23 01:17:34",
             "updated_at": "2017-11-15 07:36:17",
-            "avatar": "http://thinksns-plus.dev/api/v2/users/1/avatar",
+            "avatar": "http://mts.dev/api/v2/users/1/avatar",
             "bg": null,
             "verified": {
                 "type": "user",
-                "icon": "http://thinksns-plus.dev/storage/certifications/000/000/0us/er.png",
+                "icon": "http://mts.dev/storage/certifications/000/000/0us/er.png",
                 "description": "1111"
             },
             "extra": {
