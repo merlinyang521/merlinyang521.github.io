@@ -1,14 +1,448 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ChangeListManager">
+    <list default="true" id="8990dc8b-b77f-4c92-b5ff-f1b4885318c9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-aboutus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-ad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-bootstrappers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-currency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-easemob.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-collect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-comment-pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-currency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-get.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-pinned.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-rank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-feeds-reward.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-currency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-manage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-member.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-posts-collection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-posts-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-posts-likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-posts-pinned.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-posts-reward.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-jwt-authorization.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-music-collection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-music-comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-music-like.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-music-special.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-cates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-contribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-currency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-get.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-pinneds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-ranks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news-reward.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-plus-pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-purchase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-answer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-onlookers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-ranks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-reward.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-topic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-user-answer-likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-user-collect-answer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-user-marrow-question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer-user-question-watch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-answer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-question-currency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-certification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-checkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-feedback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-find-people.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-followers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-ranks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-reward.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users-unread-notification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-verification-code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api-v2-wallet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-abilities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-ability-rule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-advertising-space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-advertising.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-answer-onlooker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-answers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-areas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-around-amaps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-certification-categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-certifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-checkin-logs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-client-versions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-common-configs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-conversations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-currencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-currency-commodities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-currency-orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-currency-type-transforms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-currency-types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-famous.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-feed-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-feed-pinneds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-feeds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-file-withs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-gold-rules.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-gold-types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-incomes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-member-logs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-members.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-pinneds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-recommends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-group-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-jwt-caches.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-music-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-music-singers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-music-special-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-music-specials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-musics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-news-cates-follow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-news-cates-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-news-cates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-news-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-news-pinneds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-news-recommend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-paid-node-users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-paid-nodes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-password-resets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-plus-id-clients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-plus-id-notices.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-question-invitation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-question-topic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-question-watcher.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-questions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-rewards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-role-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-roles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-sensitives.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-tag-categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-taggables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-topic-application.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-topic-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-topics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-user-extras.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-user-follow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-user-socialites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-user-unread-counts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-users-recommended.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-verification-codes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-wallet-cashes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-wallet-charges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-wallet-orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-wallet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields-wallets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/data-fields.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/server-getting-started-installation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/server-guides-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/server-guides-configuration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/server-guides-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/server-guides-plus-id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/new-issue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/language.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/laravel.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/php-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/new-issue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-issue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="server-getting-started-installation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/server-getting-started-installation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="137" column="51" selection-start-line="137" selection-start-column="51" selection-end-line="137" selection-end-column="51" />
+              <folding>
+                <element signature="e#20990#20995#0" expanded="true" />
+                <element signature="e#21247#21272#0" expanded="true" />
+                <element signature="e#21322#21347#0" expanded="true" />
+                <element signature="e#21382#21407#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thinksns-plus</find>
+      <find>thinksns plus</find>
+      <find>thinksns+</find>
+      <find>thinksns</find>
+      <find>ThinkSNS Plus</find>
+      <find>ThinkSNS+</find>
+      <find>ThinkSNS</find>
+      <find>&lt;div class=&quot;navigationWrapper navigationSlider&quot;&gt;                 &lt;nav class=&quot;slidingNav&quot;&gt;                     &lt;ul class=&quot;nav-site nav-site-internal&quot;&gt;                         &lt;li class=&quot;navSearchWrapper reactNavSearchWrapper&quot;&gt;&lt;input type=&quot;text&quot; id=&quot;search_input_react&quot;                                                                                   placeholder=&quot;Search&quot;/&gt;&lt;/li&gt;                         &lt;li&gt;&lt;a href=&quot;/docs/server-getting-started-installation.html&quot; target=&quot;_self&quot;&gt;文档&lt;/a&gt;&lt;/li&gt;                         &lt;li&gt;&lt;a href=&quot;/docs/api-v2-overview.html&quot; target=&quot;_self&quot;&gt;REST API v2&lt;/a&gt;&lt;/li&gt;                         &lt;li&gt;&lt;a href=&quot;/en/new-issue.html&quot; target=&quot;_self&quot;&gt;反馈&lt;/a&gt;&lt;/li&gt;                         &lt;li&gt;&lt;a href=&quot;https://github.com/slimkit&quot; target=&quot;_self&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;                     &lt;/ul&gt;                 &lt;/nav&gt;             &lt;/div&gt;</find>
+      <find>plus</find>
+      <find>数据库</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Mts</replace>
+      <replace>mts</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/docs</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/website/siteConfig.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/docs/server-getting-started-installation.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8990dc8b-b77f-4c92-b5ff-f1b4885318c9" name="Default" comment="" />
+      <created>1523166034039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523166034039</updated>
+      <workItem from="1523166035714" duration="1747000" />
+    </task>
+    <task id="LOCAL-00001" summary="remove source.">
+      <created>1523167154508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523167154508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1747000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove source." />
+    <option name="LAST_COMMIT_MESSAGE" value="remove source." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/api-v2-group-posts-comments.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="231">
+            <caret line="50" column="47" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/siteConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/php-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/laravel.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/language.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/install-video-image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/server-getting-started-installation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="137" column="51" selection-start-line="137" selection-start-column="51" selection-end-line="137" selection-end-column="51" />
+          <folding>
+            <element signature="e#20990#20995#0" expanded="true" />
+            <element signature="e#21247#21272#0" expanded="true" />
+            <element signature="e#21322#21347#0" expanded="true" />
+            <element signature="e#21382#21407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
